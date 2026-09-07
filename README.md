@@ -2,7 +2,7 @@
 
 **Gendon** — *Gideon's Recon*. An automated reconnaissance pipeline for bug bounty and VDP hunting.
 
-> Fun fact: "Gendon" is also the nickname I got bullied with in middle school. Now it's the name of a tool I built from scratch. Reclaimed. 😎
+> Fun fact: "Gendon" is also the nickname I got bullied with in middle school. Now it's the name of a tool I built from scratch. 😎
 
 Gendon chains passive-to-active recon into a single command, going from a target to an organized attack-surface blueprint — automatically.
 
