@@ -1,0 +1,12 @@
+#hasil scan target - jangan diupload
+data_*/
+*.txt
+
+#versi lama/eksperiment
+archive/
+lab/
+python/archive/
+
+#output pipeline (kegenerate, bukan source)
+gf_output/
+blueprint.md
